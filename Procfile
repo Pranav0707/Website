@@ -1,0 +1,1 @@
+web: gunicorn PRANAV.wsgi --log-file
